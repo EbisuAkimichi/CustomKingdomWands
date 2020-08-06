@@ -1,0 +1,10 @@
+main: net.mcreator.customwands.CustomwandsMod
+name: CustomWands
+version: 1.0.0
+authors: [Bianc, MCreator]
+website: https://mcreator.net
+api-version: 1.16
+
+commands:
+  ckw:
+    permission: ckw.use
